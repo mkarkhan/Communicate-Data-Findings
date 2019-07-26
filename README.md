@@ -8,9 +8,31 @@
 
 ## Summary of Findings
 
-> Maxiumum users are between the ages of 30-35 years of age. 
+> Subscribers took more rides in the morning between 8-9am and evening between 5-6pm while Customers took more rides around 5pm in the evening which reduced tapering away towards the morning.
 
+> Customers took more rides over the weekend while Subscribers took most rides on the weekday like Monday to Friday. This shows Customer and Subscribers have distinctly different reasons for taking rides.
+
+> Subscribers and Customers both took maximum rides in the month of June and in the warmer months from March - June which is Spring season.
+
+> Maximum bike rides are taken by users between 30-35 years of age and these rides last between 5-10 minutes. As you move away from these two variables, the number of rides starts reducing.
+
+> Maximum Customers are in the age group of 20-29 years while most Subscribers are in the age group of 30-39 years. This can be used while targetting membership options to certain individuals.
+
+> The longest rides were taken by users in the age groups of 10-19 years. For customers, the longest rides were taken by users in the age groups of 60-65 years of age. This could be because teenagers usually have more stamina and do more rides for leisure, while the age group of 60-65 years have less stamina and hence took longer to complete their rides. These age groups surprisingly however covered the least distance amongst all age groups.
+
+> Female Customers took longer rides than Males or Others but distance wise covered similar distances as Males.
+
+Overall, we can use these findings to target membership options to our end users. The program helps people commute and improve their health by providing bike rides to all which are easy to access.
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+> For the presentation we focused on:
+  1. Bike Ride Data By User Type and Various different timeframes such as Month, Weekday and Hour.
+  2. Bike Ride Count, Duration and Distance by User Type and Different Age Groups
+ 
+> Subscribers take more rides during weekdays around 8-9am in the morning and around 5-6pm in the evening. Customers take more rides  during the weekend like Saturday and Sunday around 5pm in the evening which slowly decreses for the other hours. Subscribers and Customers both take maximum bike rides during the month of June followed closely by the months of March - May.
+
+> Most of our customers that take a large number of bike rides are in the age group of 20-29 years while Subscribers who take the largest number of bike rides are in the age groups of 30-39 years. 
+
+> The longest rides were taken by Subscribers in the age groups of 10-19 years. For Customers, the longest rides were taken by users in the age groups of 60-65 years of age. This could be because teenagers usually have more stamina and do more rides for leisure or exercise, while the age group of 60-65 years have less stamina and hence took longer to complete their rides. These age groups surprisingly however covered the least distance amongst all age groups.
+  
