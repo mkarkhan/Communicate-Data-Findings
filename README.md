@@ -37,11 +37,11 @@ Overall, we can use these findings to target membership options to our end users
 > The longest rides were taken by Subscribers in the age groups of 10-19 years. For Customers, the longest rides were taken by users in the age groups of 60-65 years of age. This could be because teenagers usually have more stamina and do more rides for leisure or exercise, while the age group of 60-65 years have less stamina and hence took longer to complete their rides. These age groups surprisingly however covered the least distance amongst all age groups.
 
 ## Sources:
-   https://www.geeksforgeeks.org/xml-parsing-python/
-   https://waterprogramming.wordpress.com/2017/10/17/web-scraping-constructing-urls-downloading-and-unpacking-zipped-files-in-python-and-r/
-   https://python-forum.io/Thread-Looping-through-csv-files-in-a-folder
-   https://stackoverflow.com/questions/20906474/import-multiple-csv-files-into-pandas-and-concatenate-into-one-dataframe
-   https://stackoverflow.com/questions/19412462/getting-distance-between-two-points-based-on-latitude-longitude
-   https://seaborn.pydata.org/generated/seaborn.FacetGrid.html#seaborn.FacetGrid
+   https://www.geeksforgeeks.org/xml-parsing-python/ <br>
+   https://waterprogramming.wordpress.com/2017/10/17/web-scraping-constructing-urls-downloading-and-unpacking-zipped-files-in-python-and-r/ <br>
+   https://python-forum.io/Thread-Looping-through-csv-files-in-a-folder <br>
+   https://stackoverflow.com/questions/20906474/import-multiple-csv-files-into-pandas-and-concatenate-into-one-dataframe <br>
+   https://stackoverflow.com/questions/19412462/getting-distance-between-two-points-based-on-latitude-longitude <br>
+   https://seaborn.pydata.org/generated/seaborn.FacetGrid.html#seaborn.FacetGrid <br>
    
   
